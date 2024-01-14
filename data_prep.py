@@ -1,3 +1,5 @@
+# File for data preparation before training
+
 # Libraries
 import pandas as pd
 import os
