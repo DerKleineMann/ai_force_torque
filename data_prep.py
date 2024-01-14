@@ -29,6 +29,9 @@ df_labels=['t_Sec','t_nSec',
            'curCart_x','curCart_y','curCart_z',
            'comdCart_x','comdCart_y','comdCart_z']
 
+# Create directory if needed
+if not os.path.isdir(DIRNAME+'data/temp/'+DATA_FOLDER+'/'):
+    os.system('mkdir '+DIRNAME+'data/temp/'+DATA_FOLDER)
 # Unzip from raw data
 if not os.listdir(DIRNAME+'data/temp/'+DATA_FOLDER+'/'):
     os.system('unzip '+DIRNAME+'data/zip/'+DATA_FOLDER+'.zip -d '+DIRNAME+'data/temp/'+DATA_FOLDER+'/')
@@ -78,4 +81,5 @@ full_df.to_feather(DIRNAME+'data/feather/'+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)
 print(">> Data saved to : "+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)+'.feather')
 
 # Wipe temporary directory
+os.system('rm -r '+DIRNAME+'data/temp/'+DATA_FOLDER)
     
