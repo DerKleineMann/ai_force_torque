@@ -8,6 +8,7 @@ For further information see the Notion page :
 - Data folder : contains all needed formats of the training and validation data from the robot
 - Legacy folder : contains every previously written piece of code on the subject
 - Notes folder : irrelevant files to the program
+- Feather & Temp folder : included in gitignore (too heavy)
 
 ## Installation 
 
