@@ -78,7 +78,7 @@ for i in range (0,DF_POINTS_RANGE):
 print(">> Data merged")
 
 # Save to feather file
-full_df.to_feather(DIRNAME+'data/feather/'+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)+'.feather')
+full_df.to_feather(DIRNAME+'data/feather/'+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)+'_'+str(VERSION_NB)+'.feather')
 print(">> Data saved to : "+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)+'_'+str(VERSION_NB)+'.feather')
 
 # Wipe temporary directory
