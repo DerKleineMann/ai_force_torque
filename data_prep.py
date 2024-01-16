@@ -81,5 +81,5 @@ full_df.to_feather(DIRNAME+'data/feather/'+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)
 print(">> Data saved to : "+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)+'.feather')
 
 # Wipe temporary directory
-os.system('rm -r '+DIRNAME+'data/temp/'+DATA_FOLDER)
+os.system('rm -r '+DIRNAME+'data/temp/'+DATA_FOLDER+"/*")
     
