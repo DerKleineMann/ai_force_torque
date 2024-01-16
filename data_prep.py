@@ -4,9 +4,10 @@
 import pandas as pd
 import os
 
-# Parameters
+# Editable parameters
 IS_JSON_SUPPORTED = False
 DATA_FOLDER = "versuch_f1"
+VERSION_NB = 1
 FILENAME="data_prep.py"
 DIRNAME=os.path.abspath(FILENAME).replace(FILENAME,'')
 DF_POINTS_RANGE = 11
@@ -78,7 +79,7 @@ print(">> Data merged")
 
 # Save to feather file
 full_df.to_feather(DIRNAME+'data/feather/'+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)+'.feather')
-print(">> Data saved to : "+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)+'.feather')
+print(">> Data saved to : "+DATA_FOLDER+'_'+str(DF_POINTS_LENGTH)+'_'+str(VERSION_NB)+'.feather')
 
 # Wipe temporary directory
 os.system('rm -r '+DIRNAME+'data/temp/'+DATA_FOLDER+"/*")
