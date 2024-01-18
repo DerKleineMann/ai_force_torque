@@ -1,0 +1,57 @@
+Bachelor:
+    
+    ✔ Summary file @done (12/23/2023, 3:02:43 PM)
+
+    Code:
+        ✔ Setup file @done (1/10/2024, 3:37:35 PM)
+        ✔ TensorBoard shenanigans @done (12/23/2023, 4:57:58 PM)
+        ✔ GPU shenanigans @done (12/23/2023, 4:58:09 PM)
+
+        ✔ Preprocessing of dataset @done (1/10/2024, 3:37:46 PM)
+        ☐ Generalization of preprocessing (JSON config file)
+        ✔ Renaming of code blocks @done (1/10/2024, 3:38:01 PM)
+
+        ☐ Feather file support
+
+        ✔ Dataset importer @done (1/18/2024, 11:32:24 AM)
+        ☐ Construction of basic neural random search
+        ☐ Format of JSON saving file
+        ☐ Construction of advanced neural grid search
+
+        ☐ Feature bagging setup
+        ☐ Random forest possibility
+
+        ☐ JSON importer
+        ☐ Customize callbacks
+        ☐ Manage TensorBoard implementation
+        ☐ Interpreter of JSON saving files (PLT graphs)
+
+        ☐ Results
+
+    Writing:
+
+        ✔ Overleaf template @done (1/10/2024, 3:38:14 PM)
+
+        ✔ Basic plan @done (12/23/2023, 3:03:18 PM)
+        ✔ Precise plan 1 @done (12/23/2023, 3:08:15 PM)
+        ✔ Precise plan 2 @done (1/10/2024, 3:38:10 PM)
+        ☐ Precise plan (final)
+
+        ☐ Standard pages
+        ☐ Introduction
+        ☐ Technical theory
+        ☐ Methods & results
+        ☐ Discussion
+
+        ☐ Synchronize Notion & MD plans
+
+        ☐ Theory : Deep learning neural networks
+        ☐ Theory : Inverse kinematics problem
+        ☐ Theory : Robot piloting
+        
+        ☐ State of the art : Neural network optimization
+        ☐ State of 
+
+        ✔ Notion page writing @done (1/10/2024, 3:38:23 PM)
+
+        ✔ Literature setup @done (1/10/2024, 3:38:32 PM)

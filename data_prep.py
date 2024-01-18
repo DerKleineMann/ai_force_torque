@@ -68,6 +68,7 @@ for i in range(0,DF_POINTS_RANGE):
 
         # Reshaping data to leave the last X points
         locals()[f'df{i}_{j}_reshape']=locals()[f'df{i}_{j}'][-DF_POINTS_LENGTH:].reset_index()
+        print(locals()[f'df{i}_{j}_reshape'].shape)
 print(">> Data imported")
 
 # Merge every DataFrame into one
