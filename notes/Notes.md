@@ -72,3 +72,8 @@
     - Deleted after saving the feather file
 
 
+### Erfassungsbogen 
+
+https://sci-intern.hm.edu/fk/forms/abschlussarbeiten.php?studgang=PAB
+
+
