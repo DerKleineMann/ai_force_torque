@@ -7,6 +7,8 @@ Bachelor:
         ✔ TensorBoard shenanigans @done (12/23/2023, 4:57:58 PM)
         ✔ GPU shenanigans @done (12/23/2023, 4:58:09 PM)
 
+        ☐ Refactor README
+
         ✔ Preprocessing of dataset @done (1/10/2024, 3:37:46 PM)
         ☐ Generalization of preprocessing (JSON config file)
         ✔ Renaming of code blocks @done (1/10/2024, 3:38:01 PM)
@@ -43,7 +45,7 @@ Bachelor:
         ☐ Methods & results
         ☐ Discussion
 
-        ☐ Synchronize Notion & MD plans
+        ✔ Synchronize Notion & MD plans @done (1/18/2024, 3:02:18 PM)
 
         ☐ Theory : Deep learning neural networks
         ☐ Theory : Inverse kinematics problem
