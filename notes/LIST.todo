@@ -54,8 +54,7 @@ Bachelor:
         ☐ Introduction : GreenBot
         ☐ Introduction : Core research question
         ☐ Introduction : Use cases & goals
-        ☐ Introduction : Robot setup
-        ☐ Theory : IIWA
+        ☐ Theory : Presentation of robot automation theory
         ☐ Theory : Inverse kinematics problem
         ☐ Theory : Deep learning
         ☐ Theory : Model optimization
@@ -63,15 +62,13 @@ Bachelor:
         ☐ State of the art : Neural network optimization
         ☐ State of the art : Assembly
         ☐ State of the art : Robot piloting & AI
+        ☐ Methodology : IIWA robot setup
         ☐ Methodology : Dataset layout study
         ☐ Methodology : Neural network & model base structure
         ☐ Methodology : Optimization of hyperparameters
         ☐ Methodology : Ensemble method
-        ☐ Implementation : Dataset
-        ☐ Implementation : Tensorflow
-        ☐ Implementation : Keras
-        ☐ Implementation : Visualization of results
-        ☐ Implementation : Test setups
+        ☐ Methodology : Implementation environment
+        ☐ Methodology : Implementation
         ☐ Results : Impact on features
         ☐ Results : Basic tests
         ☐ Results : Advanced tests
