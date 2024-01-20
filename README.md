@@ -13,5 +13,3 @@ For further information see the Notion page :
 ## Installation 
 
 All previously required library and file architecture can be checked with the "env_setup.ipynb" file
-
-OUI
