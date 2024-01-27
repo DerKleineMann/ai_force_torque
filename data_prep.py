@@ -6,18 +6,22 @@ import os
 
 # Editable parameters
 IS_JSON_SUPPORTED = False
+
 DATA_FOLDER = "versuch_f1"
+DATA_PREFIX = "f"
+
 VERSION_NB = 1
 FILENAME="data_prep.py"
 DIRNAME=os.path.abspath(FILENAME).replace(FILENAME,'')
 DF_POINTS_RANGE = 11
 DF_POINTS_LENGTH = 3000
 
+
 # JSON Support
 
 # DataFrame new labels
 df_labels=['t_Sec','t_nSec',
-           'exT_A1','exT_A2','exT_A3','exT_A4','exT_A5','exT_A6','ext_A7',
+           'exT_A1','exT_A2','exT_A3','exT_A4','exT_A5','exT_A6','exT_A7',
            'msT_A1','msT_A2','msT_A3','msT_A4','msT_A5','msT_A6','msT_A7',
            'Fx','Fx1',
            'Fy','Fy1',
@@ -43,7 +47,7 @@ else :
 # Import from text files
 for i in range(0,DF_POINTS_RANGE):
     for j in range(0,DF_POINTS_RANGE):
-        file = open(DIRNAME+'data/temp/'+DATA_FOLDER+"/f_"+ str(i) + "_" + str(j) +"_demoRecord.txt",'r')
+        file = open(DIRNAME+'data/temp/'+DATA_FOLDER+"/"+DATA_PREFIX+"_"+ str(i) + "_" + str(j) +"_demoRecord.txt",'r')
 
         # Retrieving each line of data in file
         file_lines = []
@@ -68,7 +72,6 @@ for i in range(0,DF_POINTS_RANGE):
 
         # Reshaping data to leave the last X points
         locals()[f'df{i}_{j}_reshape']=locals()[f'df{i}_{j}'][-DF_POINTS_LENGTH:].reset_index()
-        print(locals()[f'df{i}_{j}_reshape'].shape)
 print(">> Data imported")
 
 # Merge every DataFrame into one
