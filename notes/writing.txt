@@ -1,0 +1,59 @@
+In the ever-changing world of modern industry, the use of robots has become more and more important.. This surge is not confined to routine tasks but extends to the automation of intricate operations in environments originally not designed for robotic intervention. This paradigm shift towards automation, especially in complex and ever-changing settings, has been so far a cornerstone of Industry 4.0.
+
+In the rapidly changing and dynamic world of modern industry, the use of robots has become increasingly important. This increased importance extends beyond routine tasks and now includes automating complex operations in environments that were not originally designed for robots. This shift towards automation, especially in complex and ever-changing settings, is a key aspect of Industry 4.0, the era of digitalization and connectivity that is revolutionizing manufacturing processes.
+
+The growing need for robots in industry is driven by the constant pursuit of improved efficiency, adaptability, and resilience. In the era of Industry 4.0, robots are no longer just tools for simplifying tasks, but strategic assets for navigating the complexities of unstructured environments.
+
+One of the key drivers for this evolution is the realization that robots must now operate in environments that are far more variable than their predecessors. The traditional notion of controlled and predictable settings has given way to the demand for robots that can seamlessly adapt to unforeseen changes, ensuring optimal performance in real-time.
+
+As industries worldwide embrace this shift, it becomes imperative to explore practical applications that embody the essence of robotic adaptability. This transition brings us to a noteworthy European project aimed at showcasing the versatility of robots in addressing challenges posed by global uncertainties, such as pandemics.
+
+In the context of the ongoing global health crisis, the need for robotic solutions that enable continuous operations without burdening human operators has never been more apparent. The ability of robotized factories to function autonomously during pandemics not only ensures business continuity but also contributes significantly to maintaining a robust economy in times of human-related disruptions.
+
+This introduction sets the stage for a comprehensive exploration of the pivotal role played by robots in addressing the evolving needs of the industry, emphasizing adaptability as a cornerstone for success. The subsequent discussion will delve into the European project's objectives, strategies, and outcomes, shedding light on how it encapsulates the essence of Industry 4.0 and the imperative for adaptable robotics in a rapidly changing world.
+
+**Numerical values**
+
+---
+
+The escalating necessity of robots in industry is driven by the quest for heightened efficiency, adaptability, and resilience. In the era of Industry 4.0, where digitalization and connectivity redefine manufacturing processes, robots are not merely tools for simplifying tasks but strategic assets for navigating the complexities of non-structured environments.
+
+One of the key drivers for this evolution is the acknowledgment that robots must now operate in environments far more variable than their predecessors. The traditional notion of controlled and predictable settings has given way to the demand for robots that can seamlessly adapt to unforeseen changes, ensuring optimal performance in real-time.
+
+---
+
+As industries worldwide embrace this shift, it becomes imperative to explore practical applications that embody the essence of robotic adaptability. This transition brings us to a noteworthy European project aimed at showcasing the versatility of robots in addressing challenges posed by global uncertainties, such as pandemics.
+
+---
+
+In the context of the ongoing global health crisis, the need for robotic solutions that enable continuous operations without burdening human operators has never been more apparent. The ability of robotized factories to function autonomously during pandemics not only ensures business continuity but also contributes significantly to maintaining a robust economy in times of human-related disruptions.
+
+---
+
+This introduction sets the stage for a comprehensive exploration of the pivotal role played by robots in addressing the evolving needs of industry, emphasizing adaptability as a cornerstone for success. The subsequent discussion will delve into the European project's objectives, strategies, and outcomes, shedding light on how it encapsulates the essence of Industry 4.0 and the imperative for adaptable robotics in a rapidly changing world
+
+---
+
+**Presentation of GreenBot AI**
+
+**Optimization part of GreenBot**
+
+**Green part of GreenBot**
+
+---
+
+**Presentation of GreenBot FORCE**
+
+---
+
+**Presentation of research question**
+
+---
+
+**Potential use cases of the project**
+
+---
+
+**Reading guide**
+
+**Summary of chapters to come**
