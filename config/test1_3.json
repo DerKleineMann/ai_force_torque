@@ -1,0 +1,14 @@
+{
+    "DATA_FOLDER" : "versuch_f1",
+    "VERSION_NB" : 1,
+    "DF_POINTS_RANGE" : 11,
+    "DF_POINTS_LENGTH" : 3000,
+
+    "OFFSET_XYZ" : [-578.6,261.4,-375],
+
+    "MODEL_TYPE" : "cnn_classification",
+    "TEST_TRAIN_RATIO" : 0.2,
+    "VALID_TRAIN_RATIO" : 0.2,
+    "MAX_TRIALS" : 5 ,
+    "MAX_EXECUTIONS" : 3
+}
