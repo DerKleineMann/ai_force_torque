@@ -1,0 +1,1 @@
+{"num_layers": 3, "units_0": 256, "activation": "relu", "dropout": false, "lr": 0.0006601859540161624, "units_1": 352, "units_2": 32, "units_3": 160, "batch_size": 32}
